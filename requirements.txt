@@ -5,3 +5,4 @@ langchain_community
 python-dotenv
 streamlit_chat
 langchain-groq
+gunicorn
