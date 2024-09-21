@@ -42,7 +42,7 @@ if "conversation_history" not in st.session_state:
     st.session_state["conversation_history"] = []
 
 # Streamlit page setup
-st.title("LangChain Chatbot with Session-based Message History (Groq API)")
+st.title("athlete-ally (Groq API)")
 
 
 # Initialize session state for messages if it doesn't exist
